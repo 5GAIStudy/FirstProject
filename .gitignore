@@ -27,4 +27,19 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Windows Installer files
+*.cab
+*.msi
+
+# === Python virtual environments ===
+.venv/
+venv/
+
+# === Python bytecode ===
+__pycache__/
+*.py[cod]
+
+# === Jupyter notebook checkpoints ===
+.ipynb_checkpoints/
+
 # End of https://www.toptal.com/developers/gitignore/api/windows
