@@ -27,10 +27,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# Windows Installer files
-*.cab
-*.msi
-
 # === Python virtual environments ===
 .venv/
 venv/
